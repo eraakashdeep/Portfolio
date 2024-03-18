@@ -50,7 +50,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
 
 3. Jobstrot WebSite [July-Dec, 2022]
    Description:
-   -> This is an job portal Adhaan application which is lived on [https://jobstrot.in/]. I worked as React Js front-end developer.
+   -> This is an job portal Adhaan application which is lived on [https://flickjobs.in/]. I worked as React Js front-end developer.
    -> Created components and developed functionality using ReactJs and used
    -> ReactJs hooks like usestate and useeffect. Json api integration
    -> Language:               Technology:     Tools:
@@ -72,10 +72,18 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
    -> Here, the administrator can enter the name,Phone number & password or create the account then generate the receipt of the products purchased. 
    -> Be like a Amazon or other online shopping apps.
    -> The Functionality is that it stand alone application,one or more user may use it at a time.
-   -> The Usability is Android Phone Only.
+   -> The Usability is Android Phone Only. Ecommercial App apk. download link is [https://drive.google.com/file/d/1u5MoY5pjQv6heB_eXpc5uqTj49WluFg5/view?usp=drivesdk]
    -> Skills: Core Java / Kotlin , Android , Android Studio - XML / Firebase
+
+6. Vital Health App on Android
+   Description:
+    -> This is a small Scale Project for vital's Activity.
+    -> This is an health application where you can check your Oxygen Level,Heart Rate,Blood Pressure,Respiration Rate,etc. all vitals.
+    -> Vitals detect with the help of camera sensor by covering rear camera with your index finger.
+    -> All App's details library and technology are availble inside android app about. Vital App apk. download link is 
+       [https://drive.google.com/file/d/1fzSyNEQCtpMKhy8fpns_kkbl7VAcZ53t/view?usp=sharing].
    
-6. Online Contact Manager Website
+8. Online Contact Manager Website
    Description:
    -> This is an simple website where users can stored their contact information
    -> Here users have to first create their account and have to stored their contact list on online contact book.
