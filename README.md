@@ -91,5 +91,6 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
 ## Contact Information
 - Email: aakashdeep983@gmail.com
 - Phone: +91 9036968103
+- Location: Jp nagar Bannerghatta, Bangalore - Karnataka,India
 - LinkedIn: [Aakash Deep](https://www.linkedin.com/in/eraakashdeep)
 - Git: [https://github.com/eraakashdeep]
