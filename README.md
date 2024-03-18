@@ -21,7 +21,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
 - 10th Science from NEB(Board), P.S.E.B. School Gaur,65%, 2014
 
 ## Work Experience
-- Android +Java Developer, Internship, [Apr 2021 - Sep 2021]
+- Android Developer, Internship, Contentio Lab, [Apr 2021 - Sep 2021]
 - Software Engineer(FrontEnd Developer), Unizen Technologies(AUKLR) Bangalore(India), [7 Jan,2022 - 17 Feb,2023]
 - Software Engineer(FrontEnd Developer), AccionLabs Private Limited Bangalore(India), [27 Feb,2023 - Present]
 
@@ -83,7 +83,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
     -> All App's details library and technology are availble inside android app about. Vital App apk. download link is 
        [https://drive.google.com/file/d/1fzSyNEQCtpMKhy8fpns_kkbl7VAcZ53t/view?usp=sharing].
    
-8. Online Contact Manager Website
+7. Online Contact Manager Website
    Description:
    -> This is an simple website where users can stored their contact information
    -> Here users have to first create their account and have to stored their contact list on online contact book.
