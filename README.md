@@ -102,3 +102,4 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
 - Location: Jp nagar Bannerghatta, Bangalore - Karnataka,India
 - LinkedIn: [https://www.linkedin.com/in/eraakashdeep]
 - Git: [GitRepo](https://github.com/eraakashdeep)
+- Resume: [Download](https://drive.google.com/file/d/17BIAudeGcCa-CDHXx2INfsPcDiokagE2/view?usp=sharing)
