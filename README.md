@@ -9,9 +9,11 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
 - HTML5 / CSS3 / Bootstrap
 - CSS Modules / Flexbox
 - Webpack / Media Queries
+- Node js / mysql / Postgres
+- Amazon Payfort digital wallet / Apple pay developer account for sandbox testing services
 - Android - Java / Kotlin
 - Android Studio / XML Design / Rest Api / Firebase
-- AWS S3 bucket / WinSCP / Git
+- AWS S3 bucket & AWS services / WinSCP / Git / Vercel.com
 - Postman / Swagger API
 
 ## Education
@@ -48,7 +50,19 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
       -JavaScript/TypeScript     -React Js     -Visual Studio
       -Html5,Css3,Bootstrap                    -Postman, GitLab,AWS S3
 
-3. Jobstrot WebSite [July-Dec, 2022]
+3. Arada Parking System [Jan - April, 2024]
+   Description:
+   -> This is an Dubai Arada parking website having Normal/VIP parking options.
+   -> User can book parking slot and pay through apple wallet method of AWS Payfort.
+   -> There is an apple session logic implemented. so, payment method button will only work in safari browser of mac/iphone compatibility.
+   -> Created components for UI screen & developed functionality using React Js and get/post amazon payfort apple pay wallet integration api using NodeJs.
+      Applicaion is lived on server:- [https://intranet.accionlabs.com/applepayment/]
+   -> Environment Used:- Apple pay developer account for sandbox testing and payfort test account(https://testfort.payfort.com/account-login) services.
+   -> Language:                 Technology:         Tools:
+      - JavaScript              - React/Nodes Js    - Visual Studio
+      - Html5, Css3, Bootstrap  - Amazon Payfort    - Postman, GitLab, AWS S3
+
+4. Jobstrot WebSite [July-Dec, 2022]
    Description:
    -> This is an job portal Adhaan application which is lived on [https://flickjobs.in/]. I worked as React Js front-end developer.
    -> Created components and developed functionality using ReactJs and used
@@ -57,7 +71,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
       -JavaScript              -React Js       -Visual Studio
       -Html,Css,Bootstrap                      -Postman,WinMerge,Git,WinScp
    
-4. Auklr Cluster Website [April-Sep, 2022]
+5. Auklr Cluster Website [April-Sep, 2022]
    Description:
    -> This is an electric vehicle cluster application. I worked as React Js frontEnd developer. This is live on server. [http://128.199.31.105:85/]
    -> Created components and developed functionality using ReactJs and used ReactJs hooks like usestate and useeffect.
@@ -65,7 +79,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
       -JavaScript              -React Js       -Visual Studio
       -Html,Css,Bootstrap                      -Postman,WinMerge,Git,WinScp
    
-5. E-Commercial App on Android
+6. E-Commercial App on Android
    Description:
    -> This is a small Scale Project for Online Shopping App.
    -> The basic idea is that customer’s can buy products online.
@@ -75,7 +89,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
    -> The Usability is Android Phone Only. Ecommercial App apk. download link is [https://drive.google.com/file/d/1u5MoY5pjQv6heB_eXpc5uqTj49WluFg5/view?usp=drivesdk]
    -> Skills: Core Java / Kotlin , Android , Android Studio - XML / Firebase
 
-6. Vital Health App on Android
+7. Vital Health App on Android
    Description:
     -> This is a small Scale Project for vital's Activity.
     -> This is an health application where you can check your Oxygen Level,Heart Rate,Blood Pressure,Respiration Rate,etc. all vitals.
@@ -83,7 +97,7 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
     -> All App's details library and technology are availble inside android app about. Vital App apk. download link is 
        [https://drive.google.com/file/d/1fzSyNEQCtpMKhy8fpns_kkbl7VAcZ53t/view?usp=sharing].
    
-7. Online Contact Manager Website
+8. Online Contact Manager Website
    Description:
    -> This is an simple website where users can stored their contact information
    -> Here users have to first create their account and have to stored their contact list on online contact book.
@@ -98,7 +112,8 @@ Passionate Frontend UI seeking for an opportunity in web and mobile Application 
 
 ## Contact Information
 - Email: aakashdeep983@gmail.com
-- Phone: +91 9036968103
+- Phone: +91 9036968103 / 7608829869
+- Website: https://www.eraakashdeep.com/
 - Location: Jp nagar Bannerghatta, Bangalore - Karnataka,India
 - LinkedIn: [https://www.linkedin.com/in/eraakashdeep]
 - Git: [GitRepo](https://github.com/eraakashdeep)
